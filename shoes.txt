@@ -1,0 +1,38 @@
+Flip Flops 	Black	180
+Beach Sandals 	Black	210
+Arian Sneakers 	Black	215
+Flat Pumps 	Black	335
+Knit Boots 	Black	345
+Platform Shoes 	Black	360
+Low Sneakers 	Black	410
+Slip-on Sneakers 	Black	420
+Leather Sneakers 	Black	470
+Heeled Sandals 	Black	475
+Sneakers 	Black	510
+Mary Jane 	Black	590
+Nureva Shoes 	Black	625
+Western Boots 	Black	650
+Lenora Boots 	Black	670
+Strappy Sandals 	Black	690
+Knit Ankle Boots 	Black	690
+Brokk Boots 	Black	780
+Lila Oxford Shoes 	Black	870
+Space Boots 	Black	890
+Ticali Heels 	Black	895
+Platform Mary Janes 	Black	895
+Polly Ballet Shoes 	Black	895
+Polly Platform Shoes 	Black	905
+Donella Boots 	Black	910
+Pump Sneakers 	Black	925
+Ella Boots 	Black	930
+Ruth Ankle Boots 	Black	930
+School Boots 	Black	940
+Wedge Sandals 	Black	950
+Pradia Shoes 	Black	965
+Ruth Heels Shoes 	Black	1005
+Steampunk Boots 	Black	1005
+Assassin Boots 	Black	1040
+Pradia Bicolor Shoes 	Black	1045
+Carling Boots 	Black	1070
+Ticali Sandals 	Black	1085
+Sheldon Boots 	Black	1270
